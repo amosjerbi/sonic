@@ -25,6 +25,6 @@ A new script that simulates Power button + Menu for quick screenshot in terminal
 Cd to your folder
 
 Run command:
-'''
+```
 ./download_screenshot.sh
-'''
+```
